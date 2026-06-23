@@ -15,7 +15,7 @@ export function Navbar() {
             <Container className="d-flex justify-content-between align-items-center">
                 <NavLink to="/" className="navbar-brand">
                     <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" />
-                    <span className="text-primary text-color">Online Ecommerce Shop</span>
+                    <span className="text-primary text-color">Online Ecommerce Shop2</span>
                 </NavLink>
 
                 <div className="d-flex align-items-center gap-3">
